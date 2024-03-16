@@ -1,0 +1,422 @@
+{
+  "users": [
+    {
+      "email": "admin@gmail.com",
+      "firstName": "Yuri111",
+      "lastName": "Khachatryan111",
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "password": "123456789",
+      "phone": "12",
+      "role": "admin",
+      "id": "c286"
+    },
+    {
+      "id": "f11b",
+      "email": "user@gmail.com",
+      "firstName": "Yuri",
+      "lastName": "Khachatryan",
+      "imageUrl": "http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "password": "123456789",
+      "role": "user",
+      "phone": "096373436"
+    }
+  ],
+  "products": [
+    {
+      "count": 33,
+      "description": "Fusce dapibus",
+      "imageUrl": "http://dummyimage.com/172x100.png/cc0000/ffffff",
+      "price": "40740",
+      "title": "Grenad1",
+      "id": "1"
+    },
+    {
+      "count": 86,
+      "description": "Ut enim ad minim veniam",
+      "imageUrl": "http://dummyimage.com/174x100.png/dddddd/000000",
+      "price": 2312,
+      "title": "Plate Pie Foi111",
+      "id": "2"
+    },
+    {
+      "count": 18,
+      "description": "Lorem ipsum dolor sit amet",
+      "imageUrl": "http://dummyimage.com/104x100.png/ff4444/ffffff",
+      "price": 2673,
+      "title": "Cheese - Roquefort Pappillon",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "title": "Yeast Dry - Fermipan",
+      "description": "consectetur adipiscing elit.",
+      "imageUrl": "http://dummyimage.com/133x100.png/dddddd/000000",
+      "count": 99,
+      "price": 3319
+    },
+    {
+      "id": "5",
+      "title": "Jam - Strawberry, 20 Ml Jar",
+      "description": "Fusce dapibus",
+      "imageUrl": "http://dummyimage.com/243x100.png/5fa2dd/ffffff",
+      "count": 80,
+      "price": 2685
+    },
+    {
+      "id": "6",
+      "title": "Currants",
+      "description": "tempor sit amet",
+      "imageUrl": "http://dummyimage.com/190x100.png/ff4444/ffffff",
+      "count": 69,
+      "price": 2057
+    },
+    {
+      "id": "7",
+      "title": "Pie Shell - 9",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "http://dummyimage.com/240x100.png/dddddd/000000",
+      "count": 9,
+      "price": 4054
+    },
+    {
+      "id": "8",
+      "title": "Jam - Raspberry",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imageUrl": "http://dummyimage.com/235x100.png/5fa2dd/ffffff",
+      "count": 5,
+      "price": 4551
+    },
+    {
+      "id": "9",
+      "title": "Fudge - Chocolate Fudge",
+      "description": "Vestibulum tortor quam",
+      "imageUrl": "http://dummyimage.com/201x100.png/cc0000/ffffff",
+      "count": 16,
+      "price": 4882
+    },
+    {
+      "id": "10",
+      "title": "Rice - Basmati",
+      "description": "Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+      "imageUrl": "http://dummyimage.com/160x100.png/cc0000/ffffff",
+      "count": 75,
+      "price": 4998
+    },
+    {
+      "id": "11",
+      "title": "Marsala - Sperone, Fine, D.o.c.",
+      "description": "Donec eu libero sit amet quam egestas semper.",
+      "imageUrl": "http://dummyimage.com/114x100.png/cc0000/ffffff",
+      "count": 85,
+      "price": 1853
+    },
+    {
+      "id": "12",
+      "title": "Beef - Striploin Aa",
+      "description": "quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "http://dummyimage.com/191x100.png/ff4444/ffffff",
+      "count": 82,
+      "price": 1622
+    },
+    {
+      "id": "13",
+      "title": "Turkey - Breast, Smoked",
+      "description": "sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "imageUrl": "http://dummyimage.com/149x100.png/dddddd/000000",
+      "count": 97,
+      "price": 3598
+    },
+    {
+      "id": "14",
+      "title": "Sobe - Lizard Fuel",
+      "description": "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.",
+      "imageUrl": "http://dummyimage.com/208x100.png/cc0000/ffffff",
+      "count": 70,
+      "price": 4091
+    },
+    {
+      "id": "15",
+      "title": "Soho Lychee Liqueur",
+      "description": "quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "imageUrl": "http://dummyimage.com/177x100.png/dddddd/000000",
+      "count": 47,
+      "price": 1991
+    },
+    {
+      "id": "16",
+      "title": "Wine - Pinot Grigio Collavini",
+      "description": "ultricies eget",
+      "imageUrl": "http://dummyimage.com/217x100.png/dddddd/000000",
+      "count": 97,
+      "price": 2063
+    },
+    {
+      "id": "17",
+      "title": "Sauce - Oyster",
+      "description": "feugiat vitae",
+      "imageUrl": "http://dummyimage.com/120x100.png/5fa2dd/ffffff",
+      "count": 38,
+      "price": 4899
+    },
+    {
+      "id": "18",
+      "title": "Muffin - Zero Transfat",
+      "description": "Lorem ipsum dolor sit amet",
+      "imageUrl": "http://dummyimage.com/136x100.png/5fa2dd/ffffff",
+      "count": 56,
+      "price": 3651
+    },
+    {
+      "id": "19",
+      "title": "Pasta - Rotini, Dry",
+      "description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.",
+      "imageUrl": "http://dummyimage.com/145x100.png/5fa2dd/ffffff",
+      "count": 34,
+      "price": 3271
+    },
+    {
+      "id": "20",
+      "title": "Fish - Soup Base, Bouillon",
+      "description": "feugiat vitae",
+      "imageUrl": "http://dummyimage.com/242x100.png/dddddd/000000",
+      "count": 60,
+      "price": 3365
+    },
+    {
+      "id": "21",
+      "title": "Grenadine",
+      "description": "tortor mauris condimentum nibh",
+      "imageUrl": "http://dummyimage.com/237x100.png/ff4444/ffffff",
+      "count": 42,
+      "price": 2033
+    },
+    {
+      "id": "22",
+      "title": "Lamb Rack - Ontario",
+      "description": "Excepteur sint occaecat cupidatat non proident",
+      "imageUrl": "http://dummyimage.com/121x100.png/dddddd/000000",
+      "count": 98,
+      "price": 2213
+    },
+    {
+      "id": "23",
+      "title": "Fish - Atlantic Salmon, Cold",
+      "description": "Vestibulum tortor quam",
+      "imageUrl": "http://dummyimage.com/119x100.png/dddddd/000000",
+      "count": 100,
+      "price": 1955
+    },
+    {
+      "id": "24",
+      "title": "Apple - Macintosh",
+      "description": "tortor mauris condimentum nibh",
+      "imageUrl": "http://dummyimage.com/107x100.png/cc0000/ffffff",
+      "count": 8,
+      "price": 4267
+    },
+    {
+      "id": "25",
+      "title": "Pasta - Fett Alfredo, Single Serve",
+      "description": "Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+      "imageUrl": "http://dummyimage.com/196x100.png/ff4444/ffffff",
+      "count": 5,
+      "price": 3446
+    },
+    {
+      "id": "26",
+      "title": "Lamb Leg - Bone - In Nz",
+      "description": "ante.",
+      "imageUrl": "http://dummyimage.com/237x100.png/ff4444/ffffff",
+      "count": 96,
+      "price": 1162
+    },
+    {
+      "id": "27",
+      "title": "Tray - 16in Rnd Blk",
+      "description": "Fusce dapibus",
+      "imageUrl": "http://dummyimage.com/211x100.png/ff4444/ffffff",
+      "count": 92,
+      "price": 3956
+    },
+    {
+      "id": "28",
+      "title": "Pork - Side Ribs",
+      "description": "tellus ac cursus commodo",
+      "imageUrl": "http://dummyimage.com/114x100.png/cc0000/ffffff",
+      "count": 97,
+      "price": 3641
+    },
+    {
+      "id": "29",
+      "title": "Cheese - Cheddar, Mild",
+      "description": "Fusce dapibus",
+      "imageUrl": "http://dummyimage.com/153x100.png/dddddd/000000",
+      "count": 2,
+      "price": 4948
+    },
+    {
+      "id": "30",
+      "title": "Oregano - Fresh",
+      "description": "consectetur adipiscing elit.",
+      "imageUrl": "http://dummyimage.com/128x100.png/cc0000/ffffff",
+      "count": 91,
+      "price": 1660
+    }
+  ],
+  "carts": [
+    {
+      "id": "26",
+      "title": "Lamb Leg - Bone - In Nz",
+      "description": "ante.",
+      "imageUrl": "http://dummyimage.com/237x100.png/ff4444/ffffff",
+      "count": 6,
+      "price": 1162,
+      "userId": "c286"
+    }
+  ],
+  "orders": [
+    {
+      "id": "9f49",
+      "date": "2024-03-14T18:38:18.563Z",
+      "items": [
+        {
+          "id": "841e",
+          "title": "Grenadillo",
+          "description": "Fusce dapibus",
+          "imageUrl": "http://dummyimage.com/172x100.png/cc0000/ffffff",
+          "count": 33,
+          "price": 4074,
+          "userId": "c286"
+        },
+        {
+          "id": "d8e4",
+          "title": "Plate Pie Foil",
+          "description": "Ut enim ad minim veniam",
+          "imageUrl": "http://dummyimage.com/174x100.png/dddddd/000000",
+          "count": 86,
+          "price": 2312,
+          "userId": "c286"
+        }
+      ],
+      "userid": "c286"
+    },
+    {
+      "id": "3c41",
+      "date": "2024-03-14T18:38:49.737Z",
+      "items": [
+        {
+          "id": "a218",
+          "title": "Cheese - Roquefort Pappillon",
+          "description": "Lorem ipsum dolor sit amet",
+          "imageUrl": "http://dummyimage.com/104x100.png/ff4444/ffffff",
+          "count": 18,
+          "price": 2673,
+          "userId": "c286"
+        },
+        {
+          "id": "7c63",
+          "title": "Plate Pie Foil",
+          "description": "Ut enim ad minim veniam",
+          "imageUrl": "http://dummyimage.com/174x100.png/dddddd/000000",
+          "count": 86,
+          "price": 2312,
+          "userId": "c286"
+        }
+      ],
+      "userid": "c286"
+    },
+    {
+      "id": "9b2d",
+      "date": "2024-03-14T18:41:02.916Z",
+      "items": [
+        {
+          "id": "82b2",
+          "title": "Grenadillo",
+          "description": "Fusce dapibus",
+          "imageUrl": "http://dummyimage.com/172x100.png/cc0000/ffffff",
+          "count": 33,
+          "price": 4074,
+          "userId": "f11b"
+        },
+        {
+          "id": "d01f",
+          "title": "Plate Pie Foil",
+          "description": "Ut enim ad minim veniam",
+          "imageUrl": "http://dummyimage.com/174x100.png/dddddd/000000",
+          "count": 86,
+          "price": 2312,
+          "userId": "f11b"
+        },
+        {
+          "id": "f0f1",
+          "title": "Cheese - Roquefort Pappillon",
+          "description": "Lorem ipsum dolor sit amet",
+          "imageUrl": "http://dummyimage.com/104x100.png/ff4444/ffffff",
+          "count": 18,
+          "price": 2673,
+          "userId": "f11b"
+        }
+      ],
+      "userid": "f11b"
+    },
+    {
+      "id": "512c",
+      "date": "2024-03-15T12:44:35.348Z",
+      "items": [
+        {
+          "id": "2",
+          "title": "Plate Pie Foil",
+          "description": "Ut enim ad minim veniam",
+          "imageUrl": "http://dummyimage.com/174x100.png/dddddd/000000",
+          "count": 86,
+          "price": 2312,
+          "userId": "c286"
+        },
+        {
+          "id": "3",
+          "title": "Cheese - Roquefort Pappillon",
+          "description": "Lorem ipsum dolor sit amet",
+          "imageUrl": "http://dummyimage.com/104x100.png/ff4444/ffffff",
+          "count": 18,
+          "price": 2673,
+          "userId": "c286"
+        }
+      ],
+      "userid": "c286"
+    },
+    {
+      "id": "52b1",
+      "date": "2024-03-15T12:51:09.857Z",
+      "items": [
+        {
+          "id": "1",
+          "title": "Grenadillo",
+          "description": "Fusce dapibus",
+          "imageUrl": "http://dummyimage.com/172x100.png/cc0000/ffffff",
+          "count": 33,
+          "price": 4074,
+          "userId": "c286"
+        },
+        {
+          "id": "2",
+          "title": "Plate Pie Foil",
+          "description": "Ut enim ad minim veniam",
+          "imageUrl": "http://dummyimage.com/174x100.png/dddddd/000000",
+          "count": 86,
+          "price": 2312,
+          "userId": "c286"
+        },
+        {
+          "id": "3",
+          "title": "Cheese - Roquefort Pappillon",
+          "description": "Lorem ipsum dolor sit amet",
+          "imageUrl": "http://dummyimage.com/104x100.png/ff4444/ffffff",
+          "count": 18,
+          "price": 2673,
+          "userId": "c286"
+        }
+      ],
+      "userid": "c286"
+    }
+  ]
+}
